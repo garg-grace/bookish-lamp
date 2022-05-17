@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background-color: rgb(246, 246, 247);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.mainhead{
+    
+    margin: 30px 200px;
+    padding: 30px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    border-color: gray;
+}
+.content{
+    text-decoration: none;
+    color: gray;
+    padding: 20px 40px;
+    font-size: 30px;
+    
+}
+.email{
+    margin: 20px 20px;
+    font-size: 30px;
+    padding:10px;
+    width: 700px;
+    height: 30px;
+    color:gray;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color: rgb(246, 246, 247);
+    border-color: gray;
+}
+.forgot{
+    text-decoration: none;
+    color:purple;
+}
+.login_button{
+    color:aliceblue;
+    background-color: purple;
+    border: none;
+    width:200px;
+    height:50px;
+    font-weight: 800;
+    font-size: 25px;
+    border-radius: 10px;
+
+}
+

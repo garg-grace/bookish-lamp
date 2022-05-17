@@ -1,0 +1,90 @@
+*{
+    margin:0%
+}
+.nav-item{
+    margin: 0px;
+}
+.nav-link{
+    padding: 0%;
+}
+.nav-container1{
+    background-color: #5e315f;
+    width: 100%;
+    padding: 10px;
+}
+.nav-heading{
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+
+}
+.nit-logo{
+    height: 40px;
+    padding: 5px;
+    margin-left: 30px;
+}
+.nav-heading_p{
+    margin-left: 20px;
+}
+.nav-heading_p1{
+    color: antiquewhite;
+    font-size: 30px;
+    margin-bottom: 0%;
+}
+.nav-heading_p2{
+    color: antiquewhite;
+    font-size: 20px;
+    align-self: right;
+}
+  .image1{
+    width: 100%;
+    height: 300px;
+}
+#about{
+    justify-content: center;
+}
+
+.para1{
+    display: flex;
+    flex-direction: row;
+}
+.para1p{
+    width:80%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.img{
+    width: 20%;
+}
+.img_margin{
+    margin: 10px;
+}
+.para_margin{
+    margin:10px
+}
+
+/*  */
+.c{
+    background-color: white;
+    margin: 2% 2%;
+    padding: 2%;
+}
+.foot{
+    background-color: #5e315f;
+    color: white;
+    padding: 5px;
+    height: 65px;
+}
+.foot1{
+    font-size: 15px;
+}
+.foot2{
+    display: flex;
+    flex-direction: row;
+    float: right;
+
+}
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
